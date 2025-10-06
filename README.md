@@ -1,7 +1,11 @@
 # Titanic-ML-Project
 My first experience with data analysis<br><br>
 Kaggle Titanic Survival Prediction (Logistic Regression model)
-
+- **Submission data**(https://github.com/k-ohyeah/Titanic-ML-Project/blob/main/titanic-competition-submission2.ipynb)
+- **Learning data**
+  - **Data Visualization**(https://github.com/k-ohyeah/Titanic-ML-Project/blob/main/titanic-competition.ipynb)
+  - **Data Preprocessing and Modeling**(https://github.com/k-ohyeah/Titanic-ML-Project/blob/main/titanic-competition-base-model.ipynb)
+  
 # 🚢 Titanic Survival Prediction (Kaggle)
 
 A beginner-friendly machine learning project using the Titanic dataset.
