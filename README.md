@@ -6,22 +6,13 @@ Kaggle Titanic Survival Prediction (Logistic Regression model)
   - **Data Visualization**(https://github.com/k-ohyeah/Titanic-ML-Project/blob/main/titanic-competition.ipynb)
   - **Data Preprocessing and Modeling**(https://github.com/k-ohyeah/Titanic-ML-Project/blob/main/titanic-competition-base-model.ipynb)
 
----
-
 ## 🧭 Key Insights (Conclusion First)
 生存予測を題材に、データ分析プロセス全体を体系的に学習。  
 特徴量設計とモデル検証を通じ、データの前処理・仮説設定・可視化・評価の一連の流れを実践。  
+ロジスティック回帰を用いて、シンプルなモデルでも特徴量設計と正則化設定により高精度を実現できることを検証。  
 単なるモデル構築に留まらず、データサイエンスにおける「仮説→検証→改善」の思考循環を体得。  
 論理的にデータを整理し、検証を重ねながら精度向上を追求する姿勢を培った。  
-最終的に **ROC AUC 0.869 / Kaggle Submission Score 0.76794** を達成。  
-
----
-
-# 🚢 Titanic - 生存予測モデル構築プロジェクト
-
-Kaggle Titanic データセットを用いた生存予測モデル構築。  
-ロジスティック回帰を中心に、特徴量設計と前処理を通じて予測精度の向上を検証。  
-最終スコアは **0.76794 (Submission)**、ROC AUC **0.869** を達成。
+最終的に **ROC AUC 0.869 / Kaggle Submission Score 0.76794** を達成。 
 
 ---
 
