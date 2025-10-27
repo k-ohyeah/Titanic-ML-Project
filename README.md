@@ -16,7 +16,7 @@ Kaggle Titanic Survival Prediction (Logistic Regression model)
 
 ---
 
-## 🎯 目的
+## 🎯 Objective
 
 Titanic データセットを題材に、基本的な機械学習プロセスの理解および  
 特徴量エンジニアリング・モデルチューニングの実践を目的とした。  
@@ -24,7 +24,7 @@ Titanic データセットを題材に、基本的な機械学習プロセスの
 
 ---
 
-## ⚙️ データ前処理
+## ⚙️ 1.Data Preprocessing
 
 - 欠損値の補完（`Age`、`Embarked`、`Fare`）  
 - カテゴリ変数のラベルエンコーディングおよびOne-Hot化  
@@ -40,7 +40,7 @@ Titanic データセットを題材に、基本的な機械学習プロセスの
 
 ---
 
-## 🧩 モデル構築
+## 🧩 2.Model Construction
 
 ロジスティック回帰を中心としたベースモデルを構築。  
 GridSearchCVを用いたハイパーパラメータ最適化を実施。
@@ -56,7 +56,7 @@ GridSearchCVを用いたハイパーパラメータ最適化を実施。
 
 ---
 
-## 📊 結果
+## 📊 3.Results
 
 | 指標 | 値 |
 |------|------|
@@ -70,7 +70,7 @@ Kaggle初学者水準を上回るスコアを達成。
 
 ---
 
-## 💬 取り組み方
+## 💬 4.Approach
 
 分析は ChatGPT および GitHub Copilot の提案を参考に進行。  
 各ステップを独自に再現・検証し、結果の妥当性を確認。  
@@ -78,7 +78,7 @@ Kaggle初学者水準を上回るスコアを達成。
 
 ---
 
-## 🧾 Summary
+## 🧾 5.Summary
 
 | 項目 | 内容 |
 |------|------|
